@@ -1,0 +1,11 @@
+c: commit 02accb803d4f826095d5a8b204f734b5674d8f62 (HEAD -> c)
+c++: commit 6fe69ab1aead92f86503664de79773bd69a94533 (HEAD -> c++)
+c#: commit 89f87a091428f991355a8ff85c153c43f0315ca6 (HEAD -> c#)
+java: commit da5e1a7ea32702ebc161d751ffcc9df01cdcb1ca (HEAD -> java)
+pascal: commit 51c2cd8f8a8e7a58a0d86ee84a3716489c74e75f (HEAD -> pascal)
+php: commit 2e5ca6e1254bf6da51f26f1d095c9904f6661d04 (HEAD -> php)
+python: commit 2b6291bb4abb174f18eefef8cf31b4c4e9cb969e (HEAD -> python)
+ruby: commit 8233ef4c639ff7ef93fe0b47802ad1985faa9951 (HEAD -> ruby)
+perl: commit f0e4d23c82d80c53dba236df52a6a6c712213b2a (HEAD -> perl)
+delphi: commit 7a7091ee038057f557a6bdb7350540ea3823e3e3 (HEAD -> delphi)
+
